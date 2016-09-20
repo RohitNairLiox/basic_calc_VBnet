@@ -34,23 +34,55 @@
         TextBox1.Text = TextBox1.Text & 9
     End Sub
     Private Sub Button13_Click(sender As Object, e As EventArgs) Handles Button13.Click
-        TextBox2.Text = TextBox1.Text
         TextBox3.Text = "+"
+        If TextBox1.Text = "" Then
+            MsgBox("Please Enter the value to work on!", vbInformation, "Enter the field")
+            Exit Sub
+        End If
+        If (TextBox1.Text <> "" And TextBox2.Text <> "" And TextBox3.Text <> "") Then
+            MsgBox("Please click on evaluate sign '=' !", vbInformation, "Click on =")
+            Exit Sub
+        End If
+        TextBox2.Text = TextBox1.Text
         TextBox1.Text = ""
     End Sub
     Private Sub Button14_Click(sender As Object, e As EventArgs) Handles Button14.Click
-        TextBox2.Text = TextBox1.Text
         TextBox3.Text = "-"
+        If TextBox1.Text = "" Then
+            MsgBox("Please Enter the value to work on!", vbInformation, "Enter the field")
+            Exit Sub
+        End If
+        If (TextBox1.Text <> "" And TextBox2.Text <> "" And TextBox3.Text <> "") Then
+            MsgBox("Please click on evaluate sign '=' !", vbInformation, "Click on =")
+            Exit Sub
+        End If
+        TextBox2.Text = TextBox1.Text
         TextBox1.Text = ""
     End Sub
     Private Sub Button15_Click(sender As Object, e As EventArgs) Handles Button15.Click
-        TextBox2.Text = TextBox1.Text
         TextBox3.Text = "*"
+        If TextBox1.Text = "" Then
+            MsgBox("Please Enter the value to work on!", vbInformation, "Enter the field")
+            Exit Sub
+        End If
+        If (TextBox1.Text <> "" And TextBox2.Text <> "" And TextBox3.Text <> "") Then
+            MsgBox("Please click on evaluate sign '=' !", vbInformation, "Click on =")
+            Exit Sub
+        End If
+        TextBox2.Text = TextBox1.Text
         TextBox1.Text = ""
     End Sub
     Private Sub Button16_Click(sender As Object, e As EventArgs) Handles Button16.Click
-        TextBox2.Text = TextBox1.Text
         TextBox3.Text = "/"
+        If TextBox1.Text = "" Then
+            MsgBox("Please Enter the value to work on!", vbInformation, "Enter the field")
+            Exit Sub
+        End If
+        If (TextBox1.Text <> "" And TextBox2.Text <> "" And TextBox3.Text <> "") Then
+            MsgBox("Please click on evaluate sign '=' !", vbInformation, "Click on =")
+            Exit Sub
+        End If
+        TextBox2.Text = TextBox1.Text
         TextBox1.Text = ""
     End Sub
 

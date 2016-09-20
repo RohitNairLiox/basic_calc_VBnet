@@ -264,7 +264,7 @@ Partial Class Form1
         Me.TableLayoutPanel3.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 45.78313!))
         Me.TableLayoutPanel3.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 54.21687!))
         Me.TableLayoutPanel3.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 43.0!))
-        Me.TableLayoutPanel3.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 48.0!))
+        Me.TableLayoutPanel3.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 49.0!))
         Me.TableLayoutPanel3.Controls.Add(Me.Button13, 0, 0)
         Me.TableLayoutPanel3.Controls.Add(Me.Button14, 1, 0)
         Me.TableLayoutPanel3.Controls.Add(Me.Button15, 2, 0)
@@ -299,7 +299,7 @@ Partial Class Form1
         'Button15
         '
         Me.Button15.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button15.Location = New System.Drawing.Point(91, 3)
+        Me.Button15.Location = New System.Drawing.Point(90, 3)
         Me.Button15.Name = "Button15"
         Me.Button15.Size = New System.Drawing.Size(35, 33)
         Me.Button15.TabIndex = 0
@@ -309,7 +309,7 @@ Partial Class Form1
         'Button16
         '
         Me.Button16.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button16.Location = New System.Drawing.Point(134, 3)
+        Me.Button16.Location = New System.Drawing.Point(133, 3)
         Me.Button16.Name = "Button16"
         Me.Button16.Size = New System.Drawing.Size(35, 33)
         Me.Button16.TabIndex = 0
@@ -325,12 +325,10 @@ Partial Class Form1
         '
         'TextBox3
         '
-        Me.TextBox3.Enabled = False
-        Me.TextBox3.Location = New System.Drawing.Point(13, 13)
+        Me.TextBox3.Location = New System.Drawing.Point(108, 73)
         Me.TextBox3.Name = "TextBox3"
         Me.TextBox3.Size = New System.Drawing.Size(29, 20)
         Me.TextBox3.TabIndex = 6
-        Me.TextBox3.Visible = False
         '
         'Form1
         '
