@@ -1,0 +1,10 @@
+c:\users\rohit\documents\visual studio 2012\Projects\Calculator\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+c:\users\rohit\documents\visual studio 2012\Projects\Calculator\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+c:\users\rohit\documents\visual studio 2012\Projects\Calculator\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+c:\users\rohit\documents\visual studio 2012\Projects\Calculator\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+c:\users\rohit\documents\visual studio 2012\Projects\Calculator\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+c:\users\rohit\documents\visual studio 2012\Projects\Calculator\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+c:\users\rohit\documents\visual studio 2012\Projects\Calculator\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+c:\users\rohit\documents\visual studio 2012\Projects\Calculator\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+c:\users\rohit\documents\visual studio 2012\Projects\Calculator\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+c:\users\rohit\documents\visual studio 2012\Projects\Calculator\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
