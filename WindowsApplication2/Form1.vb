@@ -1,14 +1,10 @@
 ﻿Public Class Form1
 
-    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-
-    End Sub
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         TextBox1.Text = TextBox1.Text & 1
 
     End Sub
-
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
         TextBox1.Text = TextBox1.Text & 2
     End Sub
@@ -95,7 +91,6 @@
         TextBox2.Text = ""
         TextBox3.Text = ""
     End Sub
-
     Private Sub Button17_Click(sender As Object, e As EventArgs) Handles Button17.Click
         If (TextBox1.Text = "" Or TextBox2.Text = "" Or TextBox3.Text = "") Then
             MsgBox("Please enter all the fields and then continue!", MsgBoxStyle.Information, "Incomplete information")
